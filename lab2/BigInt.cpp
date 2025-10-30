@@ -1,5 +1,5 @@
 #include "BigInt.h"
-
+// по умолчанию
 // по умолчанию
 BigInt::BigInt() {
     digits = new char[2];
